@@ -5,14 +5,16 @@
     "license": "MIT",
     "require": {
         "robloach/component-installer": "*",
-	"components/font-awesome": "~4.1",
-	"components/bootstrap": "~3.2"
+        "components/font-awesome": "~4.1",
+        "components/bootstrap": "~3.2"
     },
     "extra": {
         "component": {
-	    "scripts": [
-		"js/sb-admin.js"
-	    ],
+            "scripts": [
+                "js/sb-admin.js",
+                "js/jquery.metisMenu.js",
+                "js/jquery.cookie.js"
+            ],
             "styles": [
                 "css/sb-admin.css"
             ]
