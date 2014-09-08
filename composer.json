@@ -1,6 +1,6 @@
 {
     "name": "silvestra/sb-admin",
-    "homepage": "https://github.com/Silvestra/SBAdmin",
+    "homepage": "https://github.com/Silvestra/SB-Admin",
     "type": "component",
     "license": "MIT",
     "require": {
