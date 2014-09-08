@@ -1,0 +1,27 @@
+{
+    "name": "silvestra/sb-admin",
+    "homepage": "https://github.com/Silvestra/SBAdmin",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tadas Gliaubicas",
+            "email": "tadcka89@gmail.com"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*",
+	"components/font-awesome": "~4.1",
+	"components/bootstrap": "~3.2"
+    },
+    "extra": {
+        "component": {
+	    "scripts": [
+		"js/sb-admin.js"
+	    ],
+            "styles": [
+                "css/sb-admin.css"
+            ]
+        }
+    }
+}
