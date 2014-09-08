@@ -3,12 +3,6 @@
     "homepage": "https://github.com/Silvestra/SBAdmin",
     "type": "component",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Tadas Gliaubicas",
-            "email": "tadcka89@gmail.com"
-        }
-    ],
     "require": {
         "robloach/component-installer": "*",
 	"components/font-awesome": "~4.1",
