@@ -309,11 +309,11 @@ table.dataTable thead .sorting:after {
     background-color: #5cb85c;
 }
 
-.panel-green a {
+.panel-green .panel-footer a {
     color: #5cb85c;
 }
 
-.panel-green a:hover {
+.panel-green .panel-footer a:hover {
     color: #3d8b3d;
 }
 
@@ -327,11 +327,11 @@ table.dataTable thead .sorting:after {
     background-color: #d9534f;
 }
 
-.panel-red a {
+.panel-red .panel-footer a {
     color: #d9534f;
 }
 
-.panel-red a:hover {
+.panel-red  .panel-footer a:hover {
     color: #b52b27;
 }
 
@@ -345,10 +345,10 @@ table.dataTable thead .sorting:after {
     background-color: #f0ad4e;
 }
 
-.panel-yellow a {
+.panel-yellow .panel-footer a {
     color: #f0ad4e;
 }
 
-.panel-yellow a:hover {
+.panel-yellow .panel-footer a:hover {
     color: #df8a13;
 }
